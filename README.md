@@ -6,7 +6,7 @@
 
 </head>
 <body>
-	<header>Programming Rock Paper Scissors!</header>
+	<header>Programming Rock Paper Scissors!</header><br><br>
 <a href ="https://www.w3schools.com/js/default.asp"> Click here to learn more JavaScript!</a>
 </body>
 </html>
