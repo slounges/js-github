@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Let's Play</title>
+
+        <link href="css/app.css" rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+        <h1>Let's play Rock, Paper, Scissors!</h1>
+        <div class= "images">
+        <div class ="image" id ="r">
+            <img src="images/rock.png"width="50" height="50">
+        </div>
+        <div class ="image" id="p">
+            <img src="images/paper.png" width="50" height="50">
+        </div>
+        <div class ="image" id="s">
+            <img src="images/scissors.png"width="50" height="50">
+        </div>
+    </div>
+      
+        <div class="scores">
+           <div id="user-label" class="badge">you
+           </div>
+           <div id="computer-label" class="badge">comp</div>
+           <span id="user-score">0</span> vs. <span id="computer-score">0</span>
+        </div>
+  
+    
+
+
+
+        <select id="gameOption" name="gameOption">
+            <option value="N/A">What will you choose?</option>
+            <option value="rock">Rock</option>
+            <option value="paper">Paper</option>
+            <option value="scissors">Scissors</option>
+        </select>
+        <button id="playGame">Let's Go!</button>
+        <div id="game_area"></div>
+        <script src="js/app.js"></script>
+
+    </body>
+</html>
