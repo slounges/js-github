@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>JS&GitHub</title>
 </head>
 <body>
 	<header>Programming Rock Paper Scissors!</header>
