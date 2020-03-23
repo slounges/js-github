@@ -19,4 +19,6 @@ The user is able to choose between the three options and play against their comp
 
 Both the player and the computer have 3 lives to play with once they begin the game.
 
-Also once the game begins the score-board at the top will reveal the number of points per win, until the lives of the player are done which is when the game will end. 
+Also once the game begins the score-board at the top will add the number of points per win, until the lives of the player are done which is when the game will end. 
+
+The user can then refresh the game to start it over and play again.
